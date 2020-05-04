@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_rotate_10_right"
+        android:title="右旋转10°"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/action_rotate_10_left"
+        android:title="左旋转10°"
+        tools:ignore="HardcodedText" />
+
+    <item
+        android:id="@+id/action_toggle_automatic_rotation"
+        android:title="切换自动旋转"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/action_reset_to_0"
+        android:title="重置为 0"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/action_reset_to_90"
+        android:title="重置为 90"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/action_reset_to_180"
+        android:title="重置为 180"
+        tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/action_reset_to_270"
+        android:title="重置为 270"
+        tools:ignore="HardcodedText"/>
+</menu>

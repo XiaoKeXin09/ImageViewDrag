@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ImageViewDrag</string>
+
+    <string name="menu_zoom_enable">启用缩放</string>
+    <string name="menu_zoom_disable">禁用缩放</string>
+    <string name="menu_scale_fit_center">更改为适合中心</string>
+    <string name="menu_scale_fit_start">更改为适合开始</string>
+    <string name="menu_scale_fit_end">更改为适合结束</string>
+    <string name="menu_scale_fit_xy">更改为适合</string>
+    <string name="menu_scale_center">更改为中心</string>
+    <string name="menu_scale_center_inside">更改为中心外</string>
+    <string name="menu_scale_center_crop">更改为中心作物</string>
+    <string name="menu_zoom_random_animate">动画缩放到随机值</string>
+    <string name="menu_zoom_random">将比例设置为随机值</string>
+    <string name="menu_matrix_restore">恢复显示矩阵</string>
+    <string name="menu_matrix_capture">捕获显示矩阵</string>
+    <string name="extract_visible_bitmap">提取可见位图</string>
+</resources>
